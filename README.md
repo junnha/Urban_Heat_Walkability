@@ -13,9 +13,6 @@ A spatial analysis project for identifying heat-vulnerable walking environments
 - 보행자의 열부담, 더위회피 가능성, 우회 부담 분석
 - 더위회피 곤란구간을 도출하고 폭염 대응시설 설치, 개선 우선지역 제안
 
-## 최종결론
-- 판교,분당의 보행환경 폭염 취약성을 분석 및 남양주 왕숙1고양, 창릉 등 3기 신도시에 적용 가능한 폭염 회피 방안을 도출
-
 <br>
 
 - 작업기간 : 2026.07 ~ 2026.08
