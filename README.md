@@ -30,8 +30,7 @@ A spatial analysis project for identifying heat-vulnerable walking environments
 - 기존 폭염 대응은 무더위쉼터, 그늘막 등 개별 시설 확충 중심
 - 실제 보행자는 생활권 동선에서 이동 중 열환경에 지속적으로 노출됨
 
-→ 목표 : 열환경, 공간구조, 열저감 여건, 대응시설 접근성을 종합하여  
-보행자가 폭염 상황에서 더위를 피하기 어려운 구간을 도출
+→ 목표 : 열환경, 공간구조, 열저감 여건, 대응시설 접근성을 종합하여 보행자가 폭염 상황에서 더위를 피하기 어려운 구간을 도출
 
 <br>
 
@@ -73,8 +72,7 @@ A spatial analysis project for identifying heat-vulnerable walking environments
 - 격자별 녹지율, 그늘율, 불투수면 비율 산정
 - CV 기반 지표를 보행환경 열 스트레스 지수에 반영
 
-→ 지표면온도만으로 파악하기 어려운  
-보행자 체감 더위회피 가능성을 보완
+→ 지표면온도만으로 파악하기 어려운 보행자 체감 더위회피 가능성을 보완
 
 <br>
 
