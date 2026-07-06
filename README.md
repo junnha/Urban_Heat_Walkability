@@ -7,7 +7,7 @@ A spatial analysis project for identifying heat-vulnerable walking environments
 
 ## 프로젝트 소개
 
-- 도시 내 열환경, 공간구조, 더위 회피·저감 여건을 종합적으로 고려
+- 도시 내 열환경, 더위 회피, 저감 여건을 종합적으로 고려
 - 판교·분당의 30m × 30m 격자 단위 열환경 분석
 - 주요 생활권 동선에서 최단경로와 더위회피 경로 비교
 - 보행자의 열부담, 더위회피 가능성, 우회 부담 분석
@@ -95,7 +95,7 @@ A spatial analysis project for identifying heat-vulnerable walking environments
 - 폭염 취약지역 지도화
 - 생활권 동선별 최단경로 / 더위회피 경로 비교
 - 열노출이 높고 대체경로 선택이 어려운 더위회피 곤란구간 도출
-- 취약 원인을 공간구조, 열저감 여건, 대응시설 접근성 측면에서 해석
+- 취약 원인을 열저감 여건, 대응시설 접근성 측면에서 해석
 - 그늘막, 가로수, 무더위쉼터 등 폭염 대응시설 설치·개선 우선지역 제안
 - 3기 신도시의 폭염 대응형 보행환경 설계 시사점 도출
 
